@@ -2,6 +2,6 @@ library packnwt2;
 
 class PackNwt2 {
   void init() {
-    print('\x1B[36m PackNwt2 init \x1B[0m');
+    print('\x1B[36m PackNwt2 init  v 0.0.3 \x1B[0m');
   }
 }
